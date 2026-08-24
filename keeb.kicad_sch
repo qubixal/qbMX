@@ -3382,7 +3382,7 @@
 		)
 		(uuid "e28b46c6-88d8-498f-92d8-910bee503716")
 	)
-	(text "to-do:\nupdate the entire pcb\npbt keycaps\nMX LP Red - 100 ($44 Taobao)\n"
+	(text "to-do:\npbt keycaps\nMX LP Red - 100 ($44 Taobao)\n"
 		(exclude_from_sim no)
 		(at 131.318 170.942 0)
 		(effects

@@ -76,7 +76,7 @@ In case you're still clueless, that's fusion taking up 32GB of ram. Apparently h
 I'm still quite happy with the end result. The overall hierarchy is:
 ------- Top cover (+ acrylic sheet), 0.5mm
 keycaps + microcontroller
-------- Plate (TP4, in PCB form), 1.2mm
+------- Plate (FR4, in PCB form), 1.2mm
 switches and PCB
 ------- Bottom Case
 The overall design is a Top mount keyboard design.
