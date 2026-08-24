@@ -144,12 +144,6 @@
 		(path "/e418e3c5-3bbb-4f0a-9cd7-b189bc1d122b")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -355,6 +349,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -413,12 +419,6 @@
 		(path "/231b1e43-0572-45a2-a5a8-85420592b8a0")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -624,6 +624,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -709,12 +721,6 @@
 		(path "/6abf5774-9dff-4e5d-bd20-2f1c0de39977")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -998,12 +1004,6 @@
 		(path "/09c93b05-f4c5-4797-acb9-0dd1fd920cb1")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1209,6 +1209,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -1267,12 +1279,6 @@
 		(path "/03e207c5-913b-4e5b-ba08-e3bd92ed1e52")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1478,6 +1484,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -1536,12 +1554,6 @@
 		(path "/9740642e-9789-48fd-8fe1-d3bcbe8a3736")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1747,6 +1759,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -1805,12 +1829,6 @@
 		(path "/0ee10c51-41a7-4f3b-b7a5-55f5fb4bc6c7")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2016,6 +2034,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -2074,12 +2104,6 @@
 		(path "/55cb5455-7ce6-4ee2-a579-2d6ca4f38db6")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2285,8 +2309,20 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
-	(footprint "keys:SW_MX_LowProfile_THT"
+	(footprint "keys:SW_MX_LowProfile_THT_NoKey"
 		(layer "F.Cu")
 		(uuid "108146ab-1491-4482-ae77-9aac01802aef")
 		(at 297.97375 131.953)
@@ -2297,7 +2333,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "8136f983-419f-4b42-9875-bdc28d65bc5f")
+			(uuid "a1c408ef-72dd-4db8-b653-f0058990ff7f")
 			(effects
 				(font
 					(size 1 1)
@@ -2310,7 +2346,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bb418d34-d790-4605-9369-2f667001fc15")
+			(uuid "e451c29c-1171-4a9f-9a86-890557c274ed")
 			(effects
 				(font
 					(size 1 1)
@@ -2322,18 +2358,18 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "67c12e5b-e883-45c6-9d2c-9cbb6b1dd05e")
+			(uuid "f425b871-e1a8-4a03-a3ea-43bc38483fbd")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "73bc3b35-427c-4d8f-b47b-868674f136d2")
+			(uuid "17c8e266-b948-41e3-ad2c-96632f1eebbe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2343,12 +2379,6 @@
 		(path "/751fdf24-165c-4163-afbc-9dccfac252eb")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2639,12 +2669,6 @@
 		(path "/dac51ca9-332c-4a7a-b7cd-309e819fa4af")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2928,12 +2952,6 @@
 		(path "/f1f38398-2869-4b27-83e0-f8526f93a4b5")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3139,6 +3157,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -3197,12 +3227,6 @@
 		(path "/351958d0-065f-4481-9fc0-9b7b9fbf9ad4")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3408,6 +3432,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -3466,12 +3502,6 @@
 		(path "/99190573-2213-4996-86c9-c2ac99d6b161")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3677,6 +3707,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -3762,12 +3804,6 @@
 		(path "/4cd699e5-03a0-4bd1-914c-8a8a2436028d")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4051,12 +4087,6 @@
 		(path "/ec4c2eff-bb3f-4e90-8ce1-f9f4e2af0093")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4262,6 +4292,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -4347,12 +4389,6 @@
 		(path "/a246c520-3802-4012-a413-ee8b32dda82d")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4663,12 +4699,6 @@
 		(path "/8c3d32cb-6c98-4e09-ae6d-6acc55403b7d")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4952,12 +4982,6 @@
 		(path "/6f49b93a-058f-455a-babb-4895ad0a169f")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5163,6 +5187,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -5248,12 +5284,6 @@
 		(path "/03145269-e50e-4dc2-bd0c-b4af46bdb304")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5564,12 +5594,6 @@
 		(path "/d4b57119-8a54-4101-bba8-834840c7cce9")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5880,12 +5904,6 @@
 		(path "/ee191047-f9cd-4525-84ee-ea3a8dc4b09a")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6169,12 +6187,6 @@
 		(path "/b9647473-50b7-4bad-a193-d0449e4c8852")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6380,6 +6392,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -6465,12 +6489,6 @@
 		(path "/c6e04c5f-e7d8-4839-803b-84fe09fc1024")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6781,12 +6799,6 @@
 		(path "/666477d9-ba38-4393-9e99-778cc20cb76f")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7097,12 +7109,6 @@
 		(path "/4af99b72-20f4-43cf-9beb-233594e2f3c2")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7386,12 +7392,6 @@
 		(path "/2e2cf7bf-288e-4cca-8cf9-b1eaacae92d3")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7597,6 +7597,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -7655,12 +7667,6 @@
 		(path "/f22b9f60-5c84-46a6-a9c8-3f2b51552a8b")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7866,6 +7872,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -7951,12 +7969,6 @@
 		(path "/b7f4ef76-fa46-4e4e-8d60-f70eb9b58a55")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8267,12 +8279,6 @@
 		(path "/ed232a5e-54ab-46be-9aa1-6adbaa874f47")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8583,12 +8589,6 @@
 		(path "/e82cc03c-d91a-4b49-84ed-5fcd4d68bb0e")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8872,12 +8872,6 @@
 		(path "/90241b85-03c7-4e77-9faa-54cdb35c16eb")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9083,6 +9077,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -9168,12 +9174,6 @@
 		(path "/3f7d0ea6-17cb-43a2-b870-d4490e3b6dec")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9484,12 +9484,6 @@
 		(path "/fd7e61db-0a27-4de6-a2fd-afb5162a0be6")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9773,12 +9767,6 @@
 		(path "/f4868762-bf34-49dc-9efa-18249c1bd126")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9984,6 +9972,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -10042,12 +10042,6 @@
 		(path "/126b5ace-5886-4ee4-856a-467268dea247")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10253,6 +10247,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -10338,12 +10344,6 @@
 		(path "/32e8d7fe-1ff1-44fd-9dfc-817fcd536b4d")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10627,12 +10627,6 @@
 		(path "/f9e3df09-9b5f-4d83-90ac-b14aa2300bcc")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10838,6 +10832,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -10923,12 +10929,6 @@
 		(path "/0b9d3e18-e59d-40b8-8b31-3d3dd9ec3969")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11212,12 +11212,6 @@
 		(path "/470cd4f3-265d-4271-8b69-fcd39777dfd6")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11423,8 +11417,20 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
-	(footprint "keys:SW_MX_LowProfile_THT"
+	(footprint "keys:SW_MX_LowProfile_THT_NoKey"
 		(layer "F.Cu")
 		(uuid "330a12e1-a8e3-4dd8-b00e-30af5d5ed392")
 		(at 183.67375 151.003)
@@ -11467,7 +11473,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11481,12 +11487,6 @@
 		(path "/b51195af-77a9-4e92-9de0-1e591dedc576")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11750,12 +11750,6 @@
 		(path "/cd12fef7-3864-40bf-a267-a47537afd8e9")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11961,6 +11955,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -12046,12 +12052,6 @@
 		(path "/33717d67-5594-4ca2-8cac-8647b83d68a9")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12362,12 +12362,6 @@
 		(path "/43a069f2-a9bd-4403-bc98-bca825ea0b60")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12651,12 +12645,6 @@
 		(path "/327c75da-f7c8-4874-b973-1b35ff9ddad2")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12862,6 +12850,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -12947,12 +12947,6 @@
 		(path "/056e9869-fb25-4f4a-a2a4-ee8baf63249c")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13263,12 +13257,6 @@
 		(path "/ab74a468-bb98-4181-872a-f79e12557ef5")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13579,12 +13567,6 @@
 		(path "/9bc35a50-866a-4316-9957-c4c8489b18d5")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13868,12 +13850,6 @@
 		(path "/564c23fe-6165-4112-85a2-78c70cfb924d")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14079,6 +14055,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -14164,12 +14152,6 @@
 		(path "/d2cb0190-3b0f-4ba6-abcb-60b825985c88")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14480,12 +14462,6 @@
 		(path "/f3debb0c-2b9f-44fa-87c4-b17fa6fea5a5")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14796,12 +14772,6 @@
 		(path "/f3673c62-75f8-493e-a31f-3b163d351537")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15085,12 +15055,6 @@
 		(path "/25d527c1-dc8b-4b3f-a3b8-e95c1da9b944")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15296,6 +15260,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -15354,12 +15330,6 @@
 		(path "/0b6c5ffc-3b17-4832-a81d-335acf9b4c34")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15565,6 +15535,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -15650,12 +15632,6 @@
 		(path "/66d35c4d-e0b4-4631-b043-bf44b5c7545c")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15966,12 +15942,6 @@
 		(path "/e64a08fc-8759-4e16-af3c-99fbd1a1be0d")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16258,12 +16228,6 @@
 		(path "/45241e4d-b1dd-49df-8ab3-8b5d9388f211")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "3" "4" "2" "1")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16477,12 +16441,6 @@
 		(path "/232530fa-de83-44a9-818f-246074866284")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16688,8 +16646,20 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
-	(footprint "keys:SW_MX_LowProfile_THT"
+	(footprint "keys:SW_MX_LowProfile_THT_NoKey"
 		(layer "F.Cu")
 		(uuid "48469e73-06fa-4112-9c52-f6efc1b60342")
 		(at 57.4675 55.753)
@@ -16732,7 +16702,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16746,12 +16716,6 @@
 		(path "/7eaf7944-8645-4b80-abd9-080ab9fd6d33")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17042,12 +17006,6 @@
 		(path "/d79c48c6-4935-4cbc-9cc8-09395dcc1499")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17331,12 +17289,6 @@
 		(path "/77172d20-3350-4109-9459-13757d8dcbff")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17542,6 +17494,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -17600,12 +17564,6 @@
 		(path "/d0e6ba3d-13bf-4cb8-8c2c-319147281ec3")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17811,6 +17769,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -17869,12 +17839,6 @@
 		(path "/bb709c46-472b-4abd-86df-e65f0fd56010")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18080,6 +18044,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -18165,12 +18141,6 @@
 		(path "/adc30770-01ef-4d95-9a20-4657c2fbee32")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18481,12 +18451,6 @@
 		(path "/6b20001b-c4c6-4b6a-a405-b1bf33f7ea42")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18770,12 +18734,6 @@
 		(path "/94dcf578-8cbd-4493-8f67-f05435ca6607")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18981,6 +18939,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -19066,12 +19036,6 @@
 		(path "/7f4ac86c-56d0-4db9-a0cc-41715a9567de")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19309,7 +19273,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "b2e536d7-48a0-48e6-a7c4-8a4018111fec")
+			(uuid "2310fbb2-9139-4d30-8c2c-31322bb0df65")
 			(effects
 				(font
 					(size 1 1)
@@ -19322,7 +19286,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "00edf734-6a33-42ec-b057-2536e5572e96")
+			(uuid "aa08d4ec-e0f4-4d60-9e21-ffab908ca94f")
 			(effects
 				(font
 					(size 1 1)
@@ -19334,7 +19298,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d77bb9e0-c044-46e1-b676-d8f2cc5c238e")
+			(uuid "2af1935a-6d47-427b-aecc-9db04cb15055")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19345,7 +19309,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8d568674-4f32-400e-ba53-1fd394e23b78")
+			(uuid "96d6854f-59d0-49ee-b071-1d2341b96b30")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19355,12 +19319,6 @@
 		(path "/f15a801e-c0fe-4f98-834c-306e653e0748")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19566,6 +19524,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -19651,12 +19621,6 @@
 		(path "/f564f63b-7e47-4beb-82ee-34e36b9e50fc")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19967,12 +19931,6 @@
 		(path "/a52766ac-616a-4ed1-9d5c-6b036f02d510")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20256,12 +20214,6 @@
 		(path "/b678f492-5498-455f-acbc-a5f3a77dad93")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20467,6 +20419,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -20552,12 +20516,6 @@
 		(path "/c57a960c-eca1-447e-9cc9-d6799aef6405")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20841,12 +20799,6 @@
 		(path "/1eb1ef7c-9824-4694-a666-5daedd25db6e")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21052,6 +21004,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -21110,12 +21074,6 @@
 		(path "/40e6b36b-4e16-4e7a-ab56-d7e9165fe72a")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21321,8 +21279,20 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
-	(footprint "keys:SW_MX_LowProfile_THT"
+	(footprint "keys:SW_MX_LowProfile_THT_NoKey"
 		(layer "F.Cu")
 		(uuid "676ffdca-367c-4211-bde7-e4aa5eac7569")
 		(at 64.61125 131.953)
@@ -21333,7 +21303,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "a1d94ee5-7389-41f1-b491-0fd11aff0355")
+			(uuid "d0b67c1f-302e-41b4-8b80-0e5c6868543c")
 			(effects
 				(font
 					(size 1 1)
@@ -21346,7 +21316,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6d6dd023-34da-4eb8-b09b-b2a9a7c816a0")
+			(uuid "3e739370-3f6d-4738-84c0-52beae91d01a")
 			(effects
 				(font
 					(size 1 1)
@@ -21358,18 +21328,18 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c2c11a3f-5053-4f09-b29b-01bd9e129c62")
+			(uuid "a6c4c9e7-bc67-4339-9519-6af6e9c18a76")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "691afaf4-1105-4b8c-a3d2-7d5a7a3d2339")
+			(uuid "a757605e-273b-430c-9b9b-14a308aab68a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21379,12 +21349,6 @@
 		(path "/bd447a68-9732-46f5-8043-fe6e1a0b7370")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21675,12 +21639,6 @@
 		(path "/66704e14-109a-44a6-9500-9c22074a66e8")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21964,12 +21922,6 @@
 		(path "/9d9a6f0b-9cf4-45b5-aad5-e5823ee9856b")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22175,6 +22127,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -22233,12 +22197,6 @@
 		(path "/e99186f5-1a2e-4690-908b-e0e06695e269")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22444,6 +22402,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -22530,12 +22500,6 @@
 		(path "/ba28227b-3a3b-4b2b-b450-4ad2bcafdfa6")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22819,12 +22783,6 @@
 		(path "/f065ee8e-f225-446c-8ffa-ba08275c094e")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23030,6 +22988,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -23115,12 +23085,6 @@
 		(path "/768dcd56-da70-4bb9-828d-c7aad53d0dab")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23431,12 +23395,6 @@
 		(path "/20bbdb3e-99fd-49ed-9075-8ec5f91cc86a")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23720,12 +23678,6 @@
 		(path "/dd04dc35-1761-4925-98b1-0b5f0d019087")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23931,6 +23883,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -24016,12 +23980,6 @@
 		(path "/97130f1f-2925-41bf-be07-53a7a0db3dc8")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24305,12 +24263,6 @@
 		(path "/a1fabb0a-d6d8-4153-8f3c-7841cf4b8506")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24516,6 +24468,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -24574,12 +24538,6 @@
 		(path "/4a0a8502-5a92-4589-b9d5-94fb54006a86")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24785,8 +24743,20 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
-	(footprint "keys:SW_MX_LowProfile_THT"
+	(footprint "keys:SW_MX_LowProfile_THT_NoKey"
 		(layer "F.Cu")
 		(uuid "759a1e21-2215-48bb-8009-18909745e297")
 		(at 57.4675 93.853)
@@ -24797,7 +24767,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "8989fdaa-2568-4636-8ea6-cffd349e2e04")
+			(uuid "03b1f1d6-ddfc-417a-89be-c09254a10b0b")
 			(effects
 				(font
 					(size 1 1)
@@ -24810,7 +24780,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7ae236a4-192d-41fa-acde-4c666699f0a9")
+			(uuid "bfc1fcdd-4f72-449b-80c3-a8a4cdf3ed19")
 			(effects
 				(font
 					(size 1 1)
@@ -24822,18 +24792,18 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5b01ba77-7e4b-4919-b4ea-e6d5ba1ef4c0")
+			(uuid "4ef5f13b-2af1-45ad-b77e-7a7eae207338")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d7e92e21-dda9-40a8-a54a-c57215a00b5c")
+			(uuid "258e1b39-d5f4-4694-a520-997ca3a4f87f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24843,12 +24813,6 @@
 		(path "/a884cabf-7111-4747-abdf-e71fa8353fc0")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25112,12 +25076,6 @@
 		(path "/ee2321f0-a33a-4d24-908e-5309c0c46d6e")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25323,6 +25281,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -25381,12 +25351,6 @@
 		(path "/50ba08fa-f8fa-49e2-ac69-26155884ddf4")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25592,6 +25556,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -25677,12 +25653,6 @@
 		(path "/661438a9-1502-4d0a-b9dd-1dcfaacee8aa")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25993,12 +25963,6 @@
 		(path "/5a9b3ce8-40cb-42f8-b1be-fccd2f32a049")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26282,12 +26246,6 @@
 		(path "/a066e2f8-236b-4e6c-807c-a1139276838d")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26493,6 +26451,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -26551,12 +26521,6 @@
 		(path "/b9cd84d3-fd6d-4725-8207-f3d059c3851e")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26762,6 +26726,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -26820,12 +26796,6 @@
 		(path "/38bb4008-352f-4ac8-bd83-aec0f984c483")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27031,6 +27001,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -27116,12 +27098,6 @@
 		(path "/e7c3d795-2c6b-4107-a5c7-ef3d5d32f489")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27432,12 +27408,6 @@
 		(path "/0bc0a7c9-62d9-4477-8212-bd2bd36adfcd")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27721,12 +27691,6 @@
 		(path "/26b65050-4e1c-4f6d-8a76-97044bbea262")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27932,6 +27896,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -27990,12 +27966,6 @@
 		(path "/0b2f4a1b-a1ef-44e7-b9ed-fb3ba95a9e37")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28201,6 +28171,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -28286,12 +28268,6 @@
 		(path "/2d1fc927-db5f-4995-ad6f-93414a7aa700")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28575,12 +28551,6 @@
 		(path "/0e51d849-561d-486e-8d8d-46c8d2edfcab")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28786,6 +28756,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -28844,12 +28826,6 @@
 		(path "/cf39a4ca-9e69-4c15-ab98-98afbcf56464")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29055,6 +29031,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -29140,12 +29128,6 @@
 		(path "/fd685dbe-8e43-4191-860c-09c83f7d38f4")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29456,12 +29438,6 @@
 		(path "/e681d2d5-1f48-4367-ad56-e1fd70fee1b7")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29772,12 +29748,6 @@
 		(path "/af472da2-a84f-4eb1-8f46-acef6b362803")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30061,12 +30031,6 @@
 		(path "/b0445241-f668-4e20-bf80-5a010d872265")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30272,6 +30236,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -30330,12 +30306,6 @@
 		(path "/0244fe15-14a3-45bd-83a0-6da969825dbf")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30541,6 +30511,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -30626,12 +30608,6 @@
 		(path "/7e0b3b23-1eaa-4513-addd-896baf451579")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30915,12 +30891,6 @@
 		(path "/533d96d1-2834-4366-b8ae-640c3e560291")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31126,6 +31096,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -31211,12 +31193,6 @@
 		(path "/9fb32c90-88d3-43f5-93d9-77f4311fe351")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31527,12 +31503,6 @@
 		(path "/48924f07-911b-4430-8cc9-88ba10b7966e")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31843,12 +31813,6 @@
 		(path "/7f7bea03-f68e-43eb-b9c6-45392e0d299a")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32159,12 +32123,6 @@
 		(path "/88e10bb0-3e0b-4972-9e1a-2c3ec9ce0c85")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32475,12 +32433,6 @@
 		(path "/2e945de5-6c88-42a2-8196-6679ab2cc0b6")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32707,7 +32659,7 @@
 			)
 		)
 	)
-	(footprint "keys:SW_MX_LowProfile_THT"
+	(footprint "keys:SW_MX_LowProfile_THT_NoKey"
 		(layer "F.Cu")
 		(uuid "9f874298-1a40-40ea-a392-e250a9b6f645")
 		(at 305.1175 74.803)
@@ -32718,7 +32670,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "54766243-ff26-468c-89c8-739c1d0cc6b5")
+			(uuid "889e0535-cb4b-413c-9319-9427c954ec4c")
 			(effects
 				(font
 					(size 1 1)
@@ -32731,7 +32683,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7e23e7a2-2200-4f49-b72f-3e863d05ff85")
+			(uuid "134d2cf0-081a-4627-a4b1-9c9e226eb754")
 			(effects
 				(font
 					(size 1 1)
@@ -32743,18 +32695,18 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2223020f-933a-4760-ab9e-1dd10858953b")
+			(uuid "a61e6f3e-1535-4755-99f2-d00d070cc846")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b368c0ff-2a96-4c4f-b632-d4606dc83e30")
+			(uuid "ac142a4c-89d4-419a-9681-05c8eca87a3e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32764,12 +32716,6 @@
 		(path "/c3abf884-a176-4c30-84b8-20bb68cdc8d0")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33060,12 +33006,6 @@
 		(path "/1be31529-e777-4e91-b7c2-a81733fa1ed2")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33292,7 +33232,7 @@
 			)
 		)
 	)
-	(footprint "keys:SW_MX_LowProfile_THT"
+	(footprint "keys:SW_MX_LowProfile_THT_NoKey"
 		(layer "F.Cu")
 		(uuid "a2b6a734-2d3f-4306-b3ef-6634d69b2d9e")
 		(at 112.23625 151.003)
@@ -33335,7 +33275,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33349,12 +33289,6 @@
 		(path "/b44f1d29-48e2-4b9c-a02b-59b1d1c6b8ce")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33618,12 +33552,6 @@
 		(path "/0243e509-16b1-4c88-af42-6d64dfe82c81")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33829,6 +33757,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -33914,12 +33854,6 @@
 		(path "/b679c711-5801-4a8e-b4a9-b517063c8dda")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34203,12 +34137,6 @@
 		(path "/f33c5d4f-02f0-4edb-9fc6-5b547e42cb7b")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34414,6 +34342,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -34472,12 +34412,6 @@
 		(path "/a60274a5-2b5f-4d2b-818c-db69d75a65b2")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34683,6 +34617,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -34741,12 +34687,6 @@
 		(path "/10f876bf-0f6c-4308-9b7e-8e58bc365e6a")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34952,6 +34892,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -35010,12 +34962,6 @@
 		(path "/59034a48-0d7d-4f2e-991f-9cdc95f9af34")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35221,6 +35167,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -35306,12 +35264,6 @@
 		(path "/78e76e9b-9d21-408c-b430-64717d61809c")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35622,12 +35574,6 @@
 		(path "/de8c6ce9-6be5-4960-9333-8681b8045b8e")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35911,12 +35857,6 @@
 		(path "/ed009dcc-c8a6-448f-9059-33aca9e032da")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36122,6 +36062,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -36207,12 +36159,6 @@
 		(path "/0c34180d-b44f-4f9d-b83e-e1f423d18edc")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36496,12 +36442,6 @@
 		(path "/a14094cb-207c-41fa-a07c-24c003600e01")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36707,6 +36647,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -36792,12 +36744,6 @@
 		(path "/e333ae8b-d743-463c-8761-d762503abfb5")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37081,12 +37027,6 @@
 		(path "/f206547d-7f96-4f9c-be6d-d658fd1dc261")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37292,6 +37232,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -37350,12 +37302,6 @@
 		(path "/be4f74f5-a26e-41d1-8eec-1c3871ca284e")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37561,6 +37507,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -37646,12 +37604,6 @@
 		(path "/ce59cd3f-ff8d-4acc-85ef-5ecb57ce1716")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37935,12 +37887,6 @@
 		(path "/1cdf5a35-db14-4af9-8b01-268224466c96")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38146,6 +38092,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -38204,12 +38162,6 @@
 		(path "/3e25bb60-7975-4508-9ea2-59fd8e0ad759")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38415,6 +38367,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -38500,12 +38464,6 @@
 		(path "/dcbba6e4-ffb6-4927-be2b-40e1c8a50ef9")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38789,12 +38747,6 @@
 		(path "/3a646509-c9fb-4d07-846d-cfbbb161b1a6")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39000,6 +38952,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -39085,12 +39049,6 @@
 		(path "/06943499-0cd5-44b3-b0d9-b7a80e0c47db")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39401,12 +39359,6 @@
 		(path "/6c23cd0c-6510-490c-b766-efc620411f58")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39690,12 +39642,6 @@
 		(path "/641d592f-644f-4ea4-8334-253bc75f8a57")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39901,6 +39847,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -39986,12 +39944,6 @@
 		(path "/4f290dff-20ea-48ac-ab65-d6541da1102c")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40302,12 +40254,6 @@
 		(path "/ae904d47-5d38-495c-989e-b4bbf72aa05c")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40618,12 +40564,6 @@
 		(path "/b213378f-af72-40d7-add7-acc7db30261e")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40909,15 +40849,6 @@
 		(path "/48e2166e-fbc1-42d0-b21e-2874e1ee0552")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "30" "37" "1" "2" "4" "5" "6" "7" "9" "10" "11" "12" "14" "15"
-					"16" "17" "19" "20" "39" "40" "18" "23" "28" "13" "8" "38" "3" "36"
-					"21" "22" "24" "25" "26" "27" "29" "35" "31" "32" "34" "33"
-				)
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42469,12 +42400,6 @@
 		(path "/b52ba46c-9c12-49fd-90db-810b088266db")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42680,6 +42605,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -42765,12 +42702,6 @@
 		(path "/b4e0e6be-ec1d-4e35-a0b7-21d9a20f33bd")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42997,7 +42928,7 @@
 			)
 		)
 	)
-	(footprint "keys:SW_MX_LowProfile_THT"
+	(footprint "keys:SW_MX_LowProfile_THT_NoKey"
 		(layer "F.Cu")
 		(uuid "c8830c2a-1686-409d-a059-69feec1e2003")
 		(at 302.73625 112.903)
@@ -43008,7 +42939,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "1e20579e-e2b9-4436-a866-6ff9d667caad")
+			(uuid "a24a2c66-e3bd-4889-83a8-2d14ee0124e9")
 			(effects
 				(font
 					(size 1 1)
@@ -43021,7 +42952,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f6a71c03-62b6-4185-8859-5cd92dc284b5")
+			(uuid "7938041a-1322-49c4-adee-c2afbb313050")
 			(effects
 				(font
 					(size 1 1)
@@ -43033,18 +42964,18 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fdced44f-297d-44b9-b03a-7aa76ace96ff")
+			(uuid "ca08c0db-3a4e-478b-9f43-8153ce7579a0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4216c536-86be-48c0-8f87-0ea86e18d45d")
+			(uuid "c82f8b9b-f9f5-4c54-ae58-56bdf6e8b237")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43054,12 +42985,6 @@
 		(path "/59e174c0-efd7-4698-a66b-b0365c5bcf2a")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43323,12 +43248,6 @@
 		(path "/6eeb4ece-98cf-4d21-bed8-148a10a53706")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43534,6 +43453,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -43592,12 +43523,6 @@
 		(path "/e664487c-1fc5-4a9e-b8ec-6866bef3fca9")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43803,6 +43728,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -43861,12 +43798,6 @@
 		(path "/7864b855-4104-4c4f-b130-595207b18dd3")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -44072,6 +44003,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -44157,12 +44100,6 @@
 		(path "/cccf2fed-68ce-4bab-afd7-c4dcc59bcbab")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -44473,12 +44410,6 @@
 		(path "/066ede3d-fd6f-4661-9126-8e2566961110")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -44789,12 +44720,6 @@
 		(path "/2ef08fc6-aeaf-4990-939d-6c3e84bc7636")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45105,12 +45030,6 @@
 		(path "/24dc024f-61c2-4fce-b166-e227abdd8ed3")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45421,12 +45340,6 @@
 		(path "/49cafb62-ca1f-44bf-b54d-cadb05277cd7")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45737,12 +45650,6 @@
 		(path "/7243357f-4e4d-4a87-a332-4083179ba2a7")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -46026,12 +45933,6 @@
 		(path "/84659bcc-138c-454e-a31b-70a4379ded91")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -46237,8 +46138,20 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
-	(footprint "keys:SW_MX_LowProfile_THT"
+	(footprint "keys:SW_MX_LowProfile_THT_NoKey"
 		(layer "F.Cu")
 		(uuid "e09c4031-57f2-4a57-b095-00838093a881")
 		(at 59.84875 112.903)
@@ -46249,7 +46162,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "56c883d8-c1df-41df-af96-0ac1226cd2ba")
+			(uuid "b5e17840-5465-4849-9ef3-e7afa7f2f265")
 			(effects
 				(font
 					(size 1 1)
@@ -46262,7 +46175,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f644db26-409c-4e5b-9530-9f3841a6a9a5")
+			(uuid "2b69f219-437b-40f5-b1ba-a8472dbc38fa")
 			(effects
 				(font
 					(size 1 1)
@@ -46274,18 +46187,18 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f053d017-b93a-4203-934c-5604640e6699")
+			(uuid "14639116-2cfc-45f7-9f48-fecf503c2564")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bb3f4e4c-af30-47f8-8930-b13ebb0548d7")
+			(uuid "33fa21b1-9045-4181-8a6a-9ddc5a1b46b5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46295,12 +46208,6 @@
 		(path "/78c2f51e-a494-4f42-abd5-a784ab3200f9")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -46564,12 +46471,6 @@
 		(path "/5b2e30d1-b964-45df-90eb-9a1511571a84")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -46775,6 +46676,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -46860,12 +46773,6 @@
 		(path "/943b06d5-e9f4-4594-81ae-7316bbd44269")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -47176,12 +47083,6 @@
 		(path "/0797e40e-6ecc-465a-a42b-ae2e22ac2b49")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -47492,12 +47393,6 @@
 		(path "/be6e65eb-56e0-4d11-aa55-99703043f986")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -47778,12 +47673,6 @@
 		(path "/7a8949a1-70f0-416a-91a6-bef2f24b9abc")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "A" "C" "B" "S1" "S2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48131,7 +48020,7 @@
 			(uuid "87eaae08-4c9d-48d8-9a62-453b71ff7af6")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/EC11-THT-15F-black.step"
+		(model "${KIPRJMOD}/EC11-THT-10F-black.step"
 			(offset
 				(xyz 7.493 -2.54 0)
 			)
@@ -48200,12 +48089,6 @@
 		(path "/99c1353f-9301-46da-8635-279a26ca1f05")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48411,6 +48294,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -48496,12 +48391,6 @@
 		(path "/04274f8f-7868-44da-8e96-1963abbf2a64")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48785,12 +48674,6 @@
 		(path "/07d93b18-cb62-41f3-a244-0b2d63f9e170")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48996,6 +48879,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -49081,12 +48976,6 @@
 		(path "/54caa90a-eac3-48cf-81ca-5b1895e59920")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -49397,12 +49286,6 @@
 		(path "/66fb4a5d-942a-493c-92d7-95d2231c929a")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -49713,12 +49596,6 @@
 		(path "/c6dfff9b-3929-43b9-92cf-4571854eaff1")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50029,12 +49906,6 @@
 		(path "/ba228493-cce2-4254-9fac-00c123fee5bf")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50318,12 +50189,6 @@
 		(path "/afbe631b-9063-43f2-b27e-7536faaf4766")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50529,6 +50394,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "keys:SW_MX_LowProfile_THT"
 		(layer "F.Cu")
@@ -50587,12 +50464,6 @@
 		(path "/fc125036-7866-479e-8301-deaa68e07159")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50798,6 +50669,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -50883,12 +50766,6 @@
 		(path "/c19f10b7-e64f-474d-ac13-6e31b32020d4")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -51199,12 +51076,6 @@
 		(path "/7431e5be-d361-41d3-b0cb-f3381fb8bdf5")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -51515,12 +51386,6 @@
 		(path "/6c608175-23ec-4b60-acb6-8b08a1b0edfd")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -51804,12 +51669,6 @@
 		(path "/6f880238-8b42-40cd-84ac-65f25c22084d")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -52015,6 +51874,18 @@
 				(xyz -0 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/dsa-keycap-master/DSA 1u.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 3.302)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
@@ -52100,12 +51971,6 @@
 		(path "/7af905c9-d6a6-4f5f-8225-245d6fc252d8")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -52403,12 +52268,6 @@
 		(path "/e0fa4408-5425-45d4-ba68-55dda03d934c")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -52567,12 +52426,6 @@
 		(path "/00c92fcb-12df-4e3e-adfb-f50f21ae823c")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -52724,12 +52577,6 @@
 		(path "/d183a3bf-a521-4a24-8407-df813fe17edb")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -53168,12 +53015,6 @@
 		(path "/13e071f6-6062-4cac-9222-edf8dab831ea")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -53619,12 +53460,6 @@
 		(path "/37be2f40-cdf5-41fc-bf44-da10dda1fa20")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -53783,12 +53618,6 @@
 		(path "/3c1d7681-54ea-4891-bcf1-56b939edd864")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -53947,12 +53776,6 @@
 		(path "/82297164-55b6-4545-b029-03f8a49e4489")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -54104,12 +53927,6 @@
 		(path "/936915f0-37c4-4509-9928-9ed859c686b5")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -54548,12 +54365,6 @@
 		(path "/bf6abc54-b613-45a4-be75-c8c7ce468eed")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -54992,12 +54803,6 @@
 		(path "/e8d20480-df96-403b-848b-e62686c5fae6")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -55436,12 +55241,6 @@
 		(path "/943cf14c-2e6d-4365-97cd-32ca1505f0ed")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -55887,12 +55686,6 @@
 		(path "/88a0593a-7f4a-41a5-8395-ffc0375a043a")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -56051,12 +55844,6 @@
 		(path "/5fb6ee69-482d-42a9-b5b0-45b79aa91237")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -56208,12 +55995,6 @@
 		(path "/0a618170-f933-4316-a69c-60b467150236")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -56659,12 +56440,6 @@
 		(path "/6a3fe132-8941-445f-8668-09d9ed7b9886")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -56823,12 +56598,6 @@
 		(path "/135e6203-432d-4aaf-8484-c0078e17e270")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -56987,12 +56756,6 @@
 		(path "/48ccb834-97a7-4cdc-b0bf-0107247e7d8a")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -57151,12 +56914,6 @@
 		(path "/0a0f4ae1-db3b-4e2a-9501-03eab62b4b2b")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -57308,12 +57065,6 @@
 		(path "/a3841727-cea9-485e-b381-c452658fd073")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -57752,12 +57503,6 @@
 		(path "/fd5d89f4-ab8a-4655-856c-cf0fdc46a82b")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -58196,12 +57941,6 @@
 		(path "/a98a923a-ee08-48fe-8fef-7582348ddf8e")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -58647,12 +58386,6 @@
 		(path "/24634bd3-ae8c-48e0-88ad-04313c9b43c6")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -58804,12 +58537,6 @@
 		(path "/c482b23c-c81e-4b1d-9f16-3f326327c918")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -59248,12 +58975,6 @@
 		(path "/f3a0b632-6011-4b00-84c5-8d3c66b2f481")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -59699,12 +59420,6 @@
 		(path "/173ac9e9-78f8-42ab-9b31-3d065d64fdff")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -59856,12 +59571,6 @@
 		(path "/2db83268-82b7-4f2f-bb34-4dca99cacb65")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -60300,12 +60009,6 @@
 		(path "/99f10301-a32c-4ef6-b45b-fd5d406155b9")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -60744,12 +60447,6 @@
 		(path "/da338038-49cd-4868-9c21-bbfd52415ff0")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -61195,12 +60892,6 @@
 		(path "/80437912-1d52-4e7c-a1f3-1e2d0427737f")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -61359,12 +61050,6 @@
 		(path "/967a42a2-21e6-4dce-b3d5-b29189c1b316")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line

@@ -35,7 +35,7 @@ Designing the matrix and optimising GPIO lanes with functionality was a cool cha
 ## Build Log / Journal
 *note, the KiCad project was not git initialised, and so does not show up under hackatime as a distinct project. The hours are accurate estimates based on daily overviews.
 
-### 1. Planning & schematic —  _6 hrs_
+### 1. Planning & schematic —  _5 hrs_
 I followed the guide and started planning. Functionalities:
 RP2040 microcontroller (), 0.91" OLED screen (2 GPIO), Rotary Encoder (2 GPIO), Keys (21 GPIO, 6 rows 15 columns), "Backlight" (1GPIO) total 26GPIO.
 
@@ -44,12 +44,12 @@ Originally, i designed this for standard size MX switches and did not understand
 
 I handplaced each key which resulted in this taking ages. At this time, I just autorouted to save some time.
 
-### 2. PCB layout — _2 hrs_ _(TODO)_
+### 2. PCB layout — _2 hrs_
 
 Hand-routed the matrix. When I applied the 3D models, I noticed something was off and reconfigured everything.
 ![2nd](readme-library/second.png)
 
-### 3. Redesign — _7 hrs_ _(TODO)_
+### 3. Redesign — _6 hrs_
 
 Refactored entire keyboard from scratch after several issues with geographical annotation messing up the keys. Other key changes that happened were:
 MX switches -> MX Low Profile Red switches,
@@ -65,10 +65,26 @@ I also fetched the 3D models for everything and exported to fusion which took a 
 
 ![4th](readme-library/fourth.png)
 
-### 4. Case design — _X hrs_ _(TODO)_
-Exported STEP files.
+Exported STEP files are available in /prod-3d-models.
 
-### 5. Ordering & assembly — _X hrs_ _(TODO)_
+So how the heck did creating a rectangle box of doom and despair take 7 hours?
+I think it can be explained in one screenshot:
+![stupid fusion](readme-library/what.png)
+
+In case you're still clueless, that's fusion taking up 32GB of ram. Apparently having 85 switches and a few more bits ad pieces kills your computer.
+
+I'm still quite happy with the end result. The overall hierarchy is:
+------- Top cover (+ acrylic sheet), 0.5mm
+keycaps + microcontroller
+------- Plate (TP4, in PCB form), 1.2mm
+switches and PCB
+------- Bottom Case
+The overall design is a Top mount keyboard design.
+![stupid fusion](readme-library/image.webp)
+
+### 5. Ordering & assembly — _1 hrs_
+
+BOM is currently being finalised.
 
 ### 6. Firmware — _X hrs_ _(TODO)_
 

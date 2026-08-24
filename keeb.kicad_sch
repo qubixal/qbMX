@@ -3362,7 +3362,7 @@
 		)
 		(uuid "d7d2b6bc-171d-4923-add1-09da6eb6e0f4")
 	)
-	(text "Esc 1U"
+	(text "Esc 1.5U"
 		(exclude_from_sim no)
 		(at 30.48 62.738 0)
 		(effects
