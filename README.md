@@ -2,7 +2,7 @@
 
 > A custom mechanical keyboard built from scratch for [Hack Club Keeb](https://keeb.hackclub.com/) YSWS.
 
-![PCB render](readme-library/pcb.png)
+![Full Render](readme-library/qbMX.png)
 
 ## Overview
 
@@ -65,26 +65,29 @@ I also fetched the 3D models for everything and exported to fusion which took a 
 
 ![4th](readme-library/fourth.png)
 
+### 4. Outer Case Design — _8 hrs_
+
 Exported STEP files are available in /prod-3d-models.
 
-So how the heck did creating a rectangle box of doom and despair take 7 hours?
+So how the heck did creating a rectangle box of doom and despair take 8 hours?
 I think it can be explained in one screenshot:
 ![stupid fusion](readme-library/what.png)
 
 In case you're still clueless, that's fusion taking up 32GB of ram. Apparently having 85 switches and a few more bits ad pieces kills your computer.
 
 I'm still quite happy with the end result. The overall hierarchy is:
-------- Top cover (+ acrylic sheet), 0.5mm
-keycaps + microcontroller
-------- Plate (TP4, in PCB form), 1.2mm
-switches and PCB
-------- Bottom Case
+<br>------- Top cover (+ acrylic sheet), 0.5mm
+<br>keycaps + microcontroller
+<br>------- Plate (FR4, in PCB form), 1.2mm
+<br>switches and PCB
+<br>------- Bottom Case
 The overall design is a Top mount keyboard design.
-![stupid fusion](readme-library/image.webp)
+![keyboard type](readme-library/image.webp)
 
 ### 5. Ordering & assembly — _1 hrs_
 
-BOM is currently being finalised.
+BOM is almost finalised.
+Total expected cost of project is: $insert magic number here$
 
 ### 6. Firmware — _X hrs_ _(TODO)_
 

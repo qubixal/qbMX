@@ -3382,7 +3382,7 @@
 		)
 		(uuid "e28b46c6-88d8-498f-92d8-910bee503716")
 	)
-	(text "to-do:\nupdate the entire pcb\npbt keycaps\nMX LP Red - 100 ($44 Taobao)\n"
+	(text "to-do:\npbt keycaps\nMX LP Red - 100 ($44 Taobao)\n"
 		(exclude_from_sim no)
 		(at 131.318 170.942 0)
 		(effects
@@ -27159,6 +27159,98 @@
 				(path "/98fcfa59-6c4c-4e6f-8937-468a9e43a4b3"
 					(reference "#PWR08")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 398.78 3.81)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "18abdfcd-3a13-4099-87b0-5e04e5ec1a12")
+		(property "Sheetname" "main_pcb"
+			(at 398.78 3.0984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "main_pcb.kicad_sch"
+			(at 398.78 8.2046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "keeb"
+				(path "/98fcfa59-6c4c-4e6f-8937-468a9e43a4b3"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 -147.32)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b5bcd5ec-1308-4325-9af7-313b88088ea5")
+		(property "Sheetname" "Plate"
+			(at 160.02 -148.0316 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "plate.kicad_sch"
+			(at 160.02 -142.9254 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "keeb"
+				(path "/98fcfa59-6c4c-4e6f-8937-468a9e43a4b3"
+					(page "3")
 				)
 			)
 		)
