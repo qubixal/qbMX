@@ -57,4 +57,17 @@ The overall design is a Top mount keyboard design.
 BOM is almost finalised.
 Total expected cost of project is: $insert magic number here$
 
-### 6. Firmware — _X hrs_ _(TODO)_
+### 6. Firmware — 3 hrs
+
+Wrote bare-metal Pico SDK firmware (in C) for the RP2040 microcontroller. Each file is broken down below:
+- **matrix.c**: scans the 6x15 keyboard with 5ms per-key debouncing
+- **usb_descriptors.c**: device identification + HID report, USB VID:PID 0xCafe:0x4005
+- **oled.c**: SSD1306 128x32 OLED driver over I2C1 with 5 toggleable pages (listed on README)
+- **leds.c**: 15 SK6812MINI-E LED chain via PIO, with a startup rainbow wave animation + warm white / RGB cycle modes
+- **encoder.c**: rotary encoder, quadrature decoding -> volume up/down
+- **main.c**: 1ms polling rate that controls everything, calculates WPM and manages RP2040 internal temp sensor.
+
+> NOTE: AI WAS USED to dramatically speed up the matrix and fonts; saving me a lot of work here.
+
+USB CDC serial interface was added to receive Mac CPU/GPU temperatures, using the protocol `T:<cpu_avg>:<gpu_avg>\n` over USB serial at 115200 baud.
+Host-side Python script (`host_temp.py`) reads Mac temps via `osx-cpu-temp` and sends to Pico, and it is then displayed on a page on the OLED Screen.

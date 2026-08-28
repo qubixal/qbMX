@@ -30,7 +30,47 @@ Designing the matrix and optimising GPIO lanes with functionality was a cool cha
 | `*.step` | 3D models (board, OLED, rotary encoder, plate) |
 | `key-switches.pretty/`, `extra_key.pretty/` | Footprint libraries |
 | `readme-library/` | Photos & renders |
-| `bom.csv` | Bill of materials _(TODO)_ |
+| `bom.csv` | Bill of materials |
+
+## Use Guide
+
+After building all physical hardware, download the firmware folder then:
+
+```cmd
+export PICO_SDK_PATH=/path/to/pico-sdk
+
+cd firmware && mkdir build && cd build
+
+cmake .. && make
+```
+
+hold BOOTSEL on the Pico, plug in the USB and drag qbmx.uf2 to the mass storage device.
+
+OLED Shows 5 pages:
+0. Current keyboard layer
+1. Custom text/bitmap
+2. LED mode + brightness
+3. WPM counter with bar graph
+4. Host temps (CPU avg, GPU avg, Pico internal temp)
+
+For temperature tracking to work properly,
+1. Install pyserial
+```cmd
+pip3 install pyserial
+```
+2. Run host script which auto-detects the Pico port
+```cmd
+python3 firmware/host_temp.py
+```
+
+> **Note:** osx-cpu-temp will return 0.0°C on Apple Silicon Macs without SMC entitlements; where the OLED will show N/A in this case. You may instead compile `osx-cpu-temp` from source or use  `sudo powermetrics`.
+
+### Programmable Keys (Column 14, Rows 0-5)
+By default they are mapped to F13-F18 (USB HID keycodes 0x68 -> 0x6D), which is recognised by every major OS. It can be remapped in system settings.
+
+Other functions include:
+Short press rotary encoder to pause, Long press rotary encoder to toggle between volume and brightness (backlight) mode
+
 ## Build Log / Journal
 
 See [`Journal.md`](Journal.md).
