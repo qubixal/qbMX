@@ -55,7 +55,9 @@ The overall design is a Top mount keyboard design.
 ### 5. Ordering & assembly — _1 hrs_
 
 BOM is almost finalised.
-Total expected cost of project is: $insert magic number here$
+Total expected cost of project is: ~$92 usd (excluding pico price).
+The final render is seen below:
+![render](readme-library/qbMX.png)
 
 ### 6. Firmware — 3 hrs
 
