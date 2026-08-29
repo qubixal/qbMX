@@ -35,6 +35,12 @@ I also fetched the 3D models for everything and exported to fusion which took a 
 
 ### 4. Outer Case Design — _8 hrs_
 
+Added keycaps to the model.
+![5th](readme-library/fifth.png)
+
+Also, modified the bottom so that I could stick in silicone stoppers.
+![6th](readme-library/sixth.png)
+
 Exported STEP files are available in /prod-3d-models.
 
 So how the heck did creating a rectangle box of doom and despair take 8 hours?
