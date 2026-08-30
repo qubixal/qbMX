@@ -9,10 +9,11 @@ Designator,Item,Item No/LCSC,Supplier,Variant,Qty,Unit $AUD,Total $AUD,Link
 8,"0.91"" OLED Screen",0.91_OLED_____128_32___4_iic__SSD1306,Taobao,4PIN 0.91_ _______,1,1.8,1.8,https://item.taobao.com/item.htm?id=824313570601
 9,0.1uF 0603 Cap,C14663,LCSC,,50,0.02,1,https://www.lcsc.com/product-detail/C14663.html
 10,OPSCO Optoelectronics SK6812MINI-E,C5149201,LCSC,,15,0.11,1.65,https://www.lcsc.com/product-detail/C5149201.html
-11,PCB - Keyboard,,?,,1,32.99,32.99,
-12,PCB - Plate (FR4),,?,1.2mm,1,34.95,34.95,
-13,Case (3D print + Acrylic),-,-,-,-,-,-,
-14,Silicone Padding,______________________________,Taobao,15 pack 30*9*1mm,1,1.03,1.03,
-15,PBT Keycaps,______ABS\PBT____68\84\98\104\87\100\108__,Taobao,PBT White Set,1,10.87,10.87,
-,,,,,,TOTAL,140.54,
-,,,,,,TOTAL (USD),101.1888,
+11,PCB - Keyboard,,JLCPCB,,1,32.99,32.99,
+12,PCB - Plate (FR4),,JLCPCB,1.2mm,1,34.95,34.95,
+13,PCB Shipping,,JLCPCB,-,1,21.71,21.71,
+14,Case (3D print + Acrylic),-,-,-,-,-,-,
+15,Silicone Padding,______________________________,Taobao,15 pack 30*9*1mm,1,1.03,1.03,
+16,PBT Keycaps,______ABS\PBT____68\84\98\104\87\100\108__,Taobao,PBT White Set,1,10.87,10.87,
+,,,,,,TOTAL,162.25,
+,,,,,,TOTAL (USD),116.82,
