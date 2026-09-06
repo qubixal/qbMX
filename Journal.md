@@ -61,7 +61,7 @@ The overall design is a Top mount keyboard design.
 ### 5. Ordering & assembly — _1 hrs_
 
 BOM is almost finalised.
-Total expected cost of project is: ~$92 usd (excluding pico price).
+Total expected cost of project is: ~$136 usd (excluding orpheus pico).
 The final render is seen below:
 ![render](readme-library/qbMX.png)
 
