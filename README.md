@@ -73,7 +73,7 @@ Short press rotary encoder to pause, Long press rotary encoder to toggle between
 
 ## Build Log / Journal
 
-See [`Journal.md`](Journal.md).
+See [`JOURNAL.md`](JOURNAL.md).
 
 ## BOM
 

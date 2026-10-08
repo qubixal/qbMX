@@ -1,9 +1,14 @@
-# Journal
+---
+title: "qbMX"
+author: "qubixal"
+description: "A custom 85-key mechanical keyboard designed from scratch in KiCad and Fusion, with an RP2040, OLED display, rotary encoder and per-key LEDs."
+created_at: "2026-08-20"
+---
 
-## Build Log / Journal
 *note, the KiCad project was not git initialised, and so does not show up under hackatime as a distinct project. The hours are accurate estimates based on daily overviews.
 
-### 1. Planning & schematic —  _5 hrs_
+# August 21: Planning & schematic
+
 I followed the guide and started planning. Functionalities:
 RP2040 microcontroller (), 0.91" OLED screen (2 GPIO), Rotary Encoder (2 GPIO), Keys (21 GPIO, 6 rows 15 columns), "Backlight" (1GPIO) total 26GPIO.
 
@@ -12,12 +17,16 @@ Originally, i designed this for standard size MX switches and did not understand
 
 I handplaced each key which resulted in this taking ages. At this time, I just autorouted to save some time.
 
-### 2. PCB layout — _2 hrs_
+**Total time spent: 5 hours**
+
+# August 21: PCB layout
 
 Hand-routed the matrix. When I applied the 3D models, I noticed something was off and reconfigured everything.
 ![2nd](readme-library/second.png)
 
-### 3. Redesign — _6 hrs_
+**Total time spent: 2 hours**
+
+# August 22: Redesign
 
 Refactored entire keyboard from scratch after several issues with geographical annotation messing up the keys. Other key changes that happened were:
 MX switches -> MX Low Profile Red switches,
@@ -33,7 +42,9 @@ I also fetched the 3D models for everything and exported to fusion which took a 
 
 ![4th](readme-library/fourth.png)
 
-### 4. Outer Case Design — _8 hrs_
+**Total time spent: 6 hours**
+
+# August 24: Outer case design
 
 Added keycaps to the model.
 ![5th](readme-library/fifth.png)
@@ -58,14 +69,18 @@ I'm still quite happy with the end result. The overall hierarchy is:
 The overall design is a Top mount keyboard design.
 ![keyboard type](readme-library/image.webp)
 
-### 5. Ordering & assembly — _1 hrs_
+**Total time spent: 8 hours**
+
+# August 25: Ordering & assembly
 
 BOM is almost finalised.
 Total expected cost of project is: ~$136 usd (excluding orpheus pico).
 The final render is seen below:
 ![render](readme-library/qbMX.png)
 
-### 6. Firmware — 3 hrs
+**Total time spent: 1 hour**
+
+# August 28: Firmware
 
 Wrote bare-metal Pico SDK firmware (in C) for the RP2040 microcontroller. Each file is broken down below:
 - **matrix.c**: scans the 6x15 keyboard with 5ms per-key debouncing
@@ -75,7 +90,11 @@ Wrote bare-metal Pico SDK firmware (in C) for the RP2040 microcontroller. Each f
 - **encoder.c**: rotary encoder, quadrature decoding -> volume up/down
 - **main.c**: 1ms polling rate that controls everything, calculates WPM and manages RP2040 internal temp sensor.
 
+![firmware](readme-library/firmware.png)
+
 > NOTE: AI WAS USED to dramatically speed up the matrix and fonts; saving me a lot of work here.
 
 USB CDC serial interface was added to receive Mac CPU/GPU temperatures, using the protocol `T:<cpu_avg>:<gpu_avg>\n` over USB serial at 115200 baud.
 Host-side Python script (`host_temp.py`) reads Mac temps via `osx-cpu-temp` and sends to Pico, and it is then displayed on a page on the OLED Screen.
+
+**Total time spent: 3 hours**
